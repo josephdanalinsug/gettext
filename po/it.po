@@ -1,0 +1,1 @@
+{"errorType":"Error","errorMessage":"ENOENT: no such file or directory, open '/tmp/translated.p'","trace":["Error: ENOENT: no such file or directory, open '/tmp/translated.p'","    at Object.openSync (node:fs:603:3)","    at readFileSync (node:fs:471:35)","    at module.exports.serializer [as handler] (/var/task/app.js:104:10)"]}
