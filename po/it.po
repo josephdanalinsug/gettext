@@ -1,0 +1,74 @@
+msgid ""
+msgstr "Content-Type: text/plain\n"
+
+msgid "Appropriate"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Did you find a bug in the app? Do you have an improvement idea? Or any other comment? We are eager to hear anything you'd like to tell us."
+msgstr "IT - Did you find a bug in the app? Do you have an improvement idea? Or any other comment? We are eager to hear anything you'd like to tell us."
+
+msgid "Don't know / Don't want to rate"
+msgstr "IT - Don't know / Don't want to rate"
+
+msgid "E-mail"
+msgstr "IT - E-mail"
+
+msgid "How difficult are the questions?"
+msgstr "IT - How difficult are the questions?"
+
+msgid "Password"
+msgstr "IT - Password"
+
+msgid "Password again"
+msgstr "IT - Password again"
+
+msgid "Registration was successful. You can continue to use the application."
+msgstr "IT - Registration was successful. You can continue to use the application."
+
+msgid "Send"
+msgstr "IT - Send"
+
+msgid "Sign In"
+msgstr "IT - Sign In"
+
+msgid "Sign Up"
+msgstr "IT - Sign Up"
+
+msgid "Something wrong has happened."
+msgstr "IT - Something wrong has happened."
+
+msgid "Thank you for the message. User feedback is very important for us."
+msgstr "IT - Thank you for the message. User feedback is very important for us."
+
+msgid "Thank you for your rating."
+msgstr "IT - Thank you for your rating."
+
+msgid "Too difficult"
+msgstr "IT - Too difficult"
+
+msgid "Too easy"
+msgstr "IT - Too easy"
+
+msgid "Username"
+msgstr "IT - Username"
+
+msgid "Write to us"
+msgstr "IT - Write to us"
+
+msgid "Your e-mail address (optional)"
+msgstr "IT - Your e-mail address (optional)"
+
+msgid "and get all the benefits of registered users."
+msgstr "IT - and get all the benefits of registered users."
+
+msgid "via E-mail"
+msgstr "IT - via E-mail"
+
+msgid "via Facebook"
+msgstr "IT - via Facebook"
+
+msgid "via Google"
+msgstr "IT - via Google"
