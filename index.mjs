@@ -10,7 +10,7 @@ const gettext = [
 `];
 
 
-for (let i = 0; i < 8000; i++) {
+for (let i = 0; i < 400; i++) {
   const sentence =  faker.lorem.sentence(80);
 
   gettext.push([
